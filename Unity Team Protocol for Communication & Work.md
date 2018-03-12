@@ -14,15 +14,15 @@ This document describes onboarding instructions, mediums of communication, and g
 
 ### Mediums of Communication:<br/>
 - Unity private Discord server is the primary text-based communication medium for real-time collaborative work. Each and every channel has specific purposes:<br/>
-	1.  *#Important-notice* is exclusively for announcing important/time-sensitive work or emergencies. Do not mute channel. Everyone should read notices as soon as possible. After work or emergency is resolved, an Emoji Reaction should be used on the notice. **Not for work chat or chit-chat.**
+    1.  *#Important-notice* is exclusively for announcing important/time-sensitive work or emergencies. Do not mute this channel. Everyone should read notices as soon as possible. After work or emergency is resolved, an Emoji Reaction should be used on the notice. **Not for work chat or chit-chat.**
     2. *#Important-work* is exclusively for messages related to work on important tasks or emergencies. **Not for chit-chat, only important work.**
-    3. *#General* is for chit-chat and inter-team not-so important/time-sensitive work. Use your own team channel for work that would not benefit from inter-team coordination.
+    3. *#General* is for chit-chat and less important/time-sensitive inter-team work. Use your own team channel for work that would not benefit from inter-team coordination.
     4. *#Development* is for development work.
     5. *#Marketing* is for marketing work.
     6. *#Support* is for support work.
-    7. *#Updates* is for daily one-sentence update and weekly essay or linked document updates from each team/task leader.
+    7. *#Updates* is for daily one-sentence updates and weekly essay or linked document updates from each team/task leader.
     8. Additional channels may be created as needed for new tasks or teams that would not benefit from sharing communication with existing channels.
-    9. In Unity’s public Discord server, the private #Mentors channel is for working with certain contributors from the community.<br/>
+    9. In Unityâ€™s public Discord server, the private #Mentors channel is for working with certain contributors from the community.<br/>
 
 
 - Trello is used to update teams on the status of tasks. Trello is comprised of a board (i.e. Unity Marketing), lists (i.e. In Progress), cards (i.e. Graphics Task #1), and tags (i.e. #High priority). Use the filter feature to search for relevant tags.<br/>
@@ -40,9 +40,9 @@ This document describes onboarding instructions, mediums of communication, and g
 
 ### Guidelines:<br/>
 - Try to follow the separation of communication as outlined in the last section. Discord is for real-time communication. Trello is for updating and being updated on tasks. GitHub is for developers and anyone making pull requests.
-- Never grant anyone outside of Unity team access to Unity private Discord, Trello, GitHub, or resources, without explicit permission from your team leader.
+- Never grant anyone outside of Unity team access to the private Discord, Trello, GitHub, or resources, without explicit permission from your team leader.
 - Do not disclose private Unity discussion or work-related information to the public or to any private channel in Unity public Discord server, unless you have obtained explicit permission from your team leader.
 - Before any marketing material is released to the public, it must be vetted. Find the category of your material and follow its instructions for vetting.<br/>
-    1. Graphics, Social Media Posts, and Articles: Ensure follows brand guide, check with at least 1 designer and copywriter. If not absolutely certain about technical data, also check with at least 1 developer.
-    2. Newsletter: Ensure follow newsletter guide, check with at least 1 designer, 2 copywriters, and 2 developers.
+    1. Graphics, Social Media Posts, and Articles: Must follow brand guide. Check with at least 1 designer and copywriter. If not absolutely certain about technical data, also check with at least 1 developer.
+    2. Newsletter: Must follow newsletter guide. Check with at least 1 designer, 2 copywriters, and 2 developers.
     3. ETA and Emergency Announcements: Notify team in #Important-notice channel in Unity private Discord server. Await team leader instructions.
